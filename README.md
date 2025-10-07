@@ -1,4 +1,4 @@
-# Clone Page of Nike Air Force Shoe - [Live Link]()
+# Clone Page of Nike Air Force Shoe - [Live Link](https://nike-clone-lyart-iota.vercel.app/)
 Here, I am using Tailwind CSS to style my Webpage. Tailwind CSS is a great framework to style ***efficiently and effectively.***
 
 ## About Project
@@ -25,9 +25,9 @@ This is a clone Project of nike air force page where i applied Tailwind CSS. Thi
 ## Installation 
 To run this project locally:
 - Clone the repository
-    - git clone https://github.com/your-username/your-repo-name.git
+    - git clone https://github.com/Amrit126/Nike-Clone.git
 - Navigate into the project folder
-    - cd your-repo-name
+    - cd Nike-Clone
 
 - Install dependencies (if you're using Tailwind via npm)
     - npm install
