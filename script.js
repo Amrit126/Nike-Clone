@@ -90,7 +90,7 @@ window.addEventListener("resize", () => {
   if (window.innerWidth >= 1024) {
     body.classList.remove("overflow-hidden");
   }
-  if (window.innerWidth <= 760) {
+  if (window.innerWidth <= 760 && menuContent.classList.contains("translate-x-0")) {
     body.classList.add("overflow-hidden")
   }
 });
